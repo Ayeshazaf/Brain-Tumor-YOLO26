@@ -1,4 +1,4 @@
-# YOLO Object Detection Experiments
+# YOLO Object Detection Experiments(Academic Project)
 
 This project presents a series of experiments conducted using different YOLO models (YOLO26n, YOLO26s, YOLO26m) trained for object detection. The goal was to analyze and compare performance across model sizes and training durations.
 
